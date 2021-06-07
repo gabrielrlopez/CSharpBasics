@@ -1,0 +1,16 @@
+C:\Users\dARCHANGELDESIGN\Documents\CSharpBasics\bin\Debug\net5.0\CSharpBasics.exe
+C:\Users\dARCHANGELDESIGN\Documents\CSharpBasics\bin\Debug\net5.0\CSharpBasics.deps.json
+C:\Users\dARCHANGELDESIGN\Documents\CSharpBasics\bin\Debug\net5.0\CSharpBasics.runtimeconfig.json
+C:\Users\dARCHANGELDESIGN\Documents\CSharpBasics\bin\Debug\net5.0\CSharpBasics.runtimeconfig.dev.json
+C:\Users\dARCHANGELDESIGN\Documents\CSharpBasics\bin\Debug\net5.0\CSharpBasics.dll
+C:\Users\dARCHANGELDESIGN\Documents\CSharpBasics\bin\Debug\net5.0\ref\CSharpBasics.dll
+C:\Users\dARCHANGELDESIGN\Documents\CSharpBasics\bin\Debug\net5.0\CSharpBasics.pdb
+C:\Users\dARCHANGELDESIGN\Documents\CSharpBasics\obj\Debug\net5.0\CSharpBasics.csproj.AssemblyReference.cache
+C:\Users\dARCHANGELDESIGN\Documents\CSharpBasics\obj\Debug\net5.0\CSharpBasics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dARCHANGELDESIGN\Documents\CSharpBasics\obj\Debug\net5.0\CSharpBasics.AssemblyInfoInputs.cache
+C:\Users\dARCHANGELDESIGN\Documents\CSharpBasics\obj\Debug\net5.0\CSharpBasics.AssemblyInfo.cs
+C:\Users\dARCHANGELDESIGN\Documents\CSharpBasics\obj\Debug\net5.0\CSharpBasics.csproj.CoreCompileInputs.cache
+C:\Users\dARCHANGELDESIGN\Documents\CSharpBasics\obj\Debug\net5.0\CSharpBasics.dll
+C:\Users\dARCHANGELDESIGN\Documents\CSharpBasics\obj\Debug\net5.0\ref\CSharpBasics.dll
+C:\Users\dARCHANGELDESIGN\Documents\CSharpBasics\obj\Debug\net5.0\CSharpBasics.pdb
+C:\Users\dARCHANGELDESIGN\Documents\CSharpBasics\obj\Debug\net5.0\CSharpBasics.genruntimeconfig.cache
