@@ -1,7 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 
-
 namespace CSharpBasics
 {
     class Program
@@ -149,7 +148,8 @@ namespace CSharpBasics
 
         static void Main(string[] args)
         {
-            ThreeSmallestNumbers();
+            var count = StringUtility.NumberOfVowels("inadequate");
+            System.Console.WriteLine(count);
         }
     }
 }
